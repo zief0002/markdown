@@ -30,6 +30,7 @@ RStudio is an integrated development environment (IDE) for R. A free application
 
 To download all of the materials simultaneously from this site, click on the `Clone or Download` button and select `Download ZIP`. This will download a ZIP file of the entire site on your local computer. 
 
+To download the presentation slides only click here: [https://github.com/zief0002/markdown/raw/master/00-slides.pdf](https://github.com/zief0002/markdown/raw/master/00-slides.pdf)
 
 <br />
 
